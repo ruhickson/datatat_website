@@ -3,7 +3,7 @@ title: hk48
 type: docs
 ---
 
-# [Try hk48 Now](https://hk48.shinyapps.io/nanoshiny/)
+# [Try hk48 Now](https://nanodata.shinyapps.io/nanoshiny/)
 
 {{< columns >}}
 ## Welcome to the future of Data Analysis
