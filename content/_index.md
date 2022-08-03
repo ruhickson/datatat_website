@@ -1,20 +1,20 @@
 ---
-title: hk48
+title: datatat
 type: docs
 ---
 
-# [Try hk48 Now](https://nanodata.shinyapps.io/nanoshiny/)
+# [Try datatat Now](https://nanodata.shinyapps.io/datatat_premium/)
 
 {{< columns >}}
 ## Welcome to the future of Data Analysis
 
-hk48 is a program that takes the pain out of Data Analysis by automating everything where possible.
+datatat is a program that takes the pain out of Data Analysis by automating everything where possible.
 
 <--->
 
 ## Lowering the barrier to entry on Data Science
 
-The friction involved in starting a data science project is huge. With hk48, you can rapidly develop a data science project with informative analysis and insights, right from the get-go.
+The friction involved in starting a data science project is huge. With datatat, you can rapidly develop a data science project with informative analysis and insights, right from the get-go.
 {{< /columns >}}
 
 
@@ -27,7 +27,7 @@ The friction involved in starting a data science project is huge. With hk48, you
 
 ## Try it now
 
-Visit the app [here](https://hk48.shinyapps.io/nanoshiny/)
+Visit the app [here](https://datatat.shinyapps.io/nanoshiny/)
 
 Or come say hello to us on Twitter [here](https://twitter.com/nano_data)
 
@@ -37,7 +37,7 @@ Or sign up to our newsletter [here](https://nanodocs.netlify.app/docs/newsletter
 <!DOCTYPE html>
 <html>
 <head>
-  <title>hk48</title>
+  <title>datatat</title>
 
   <!-- include the widget -->
   <script type="text/javascript" src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
