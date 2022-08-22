@@ -1,0 +1,393 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Docs on hk48 Docs</title>
+    <link>https://example.com/docs/</link>
+    <description>Recent content in Docs on hk48 Docs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 10 Jul 2022 14:53:00 +0000</lastBuildDate><atom:link href="https://example.com/docs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Automated Modelling</title>
+      <link>https://example.com/docs/automodel/</link>
+      <pubDate>Sun, 10 Jul 2022 14:53:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/automodel/</guid>
+      <description>hk48 has the ability to run an automated modelling algorithm. Select your target variable, and hk48 will build linear models based on your dataset and output the optimal models in descending order of R-squared value.
+To run models, when you have uploaded your data, click on the Run Automated Models button in the sidebar.
+Feature selection is coming in the immediate future.</description>
+    </item>
+    
+    <item>
+      <title>hk48</title>
+      <link>https://example.com/docs/hk48/</link>
+      <pubDate>Sun, 10 Jul 2022 14:53:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/hk48/</guid>
+      <description>hk48 takes the pain out of data analysis by automating it for you. Simply upload your data to
+explore it like Google search instead of with SQL get any visualisation at your fingertips, no complex data transformation needed have statistical models built for you in seconds hk48 requires absolutely no technical knowledge whatsoever, and removes the barrier to entry for data science. Whether you&amp;rsquo;re a professional analyst, a CEO, a student, a hobbyist, or just someone with a curious mind, hk48 works for you.</description>
+    </item>
+    
+    <item>
+      <title>hk48</title>
+      <link>https://example.com/docs/trenddetector/</link>
+      <pubDate>Sun, 10 Jul 2022 14:53:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/trenddetector/</guid>
+      <description>The Trend Detector is a feature that takes your time series data and identifies positive and negative trends on a daily, weekly, monthly, and yearly window (where available).</description>
+    </item>
+    
+    <item>
+      <title>Newsletter</title>
+      <link>https://example.com/docs/newsletter/</link>
+      <pubDate>Sun, 10 Jul 2022 14:53:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/newsletter/</guid>
+      <description>Sign Up for the hk48 newsletter here</description>
+    </item>
+    
+    <item>
+      <title>Table Explorer</title>
+      <link>https://example.com/docs/tableexplorer/</link>
+      <pubDate>Sun, 10 Jul 2022 14:53:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/tableexplorer/</guid>
+      <description>Table Explorer is the base feature of hk48, built on the DT library in R. Once you&amp;rsquo;ve uploaded your data, it&amp;rsquo;s straightforward to search through the table either using column-wise filters or the overall search bar.
+Once you&amp;rsquo;ve uploaded your files, the Table Explorer will automatically populate with a paginated version of your data. There are some functions the Table Explorer enacts on your data before it is displayed that may require some user input.</description>
+    </item>
+    
+    <item>
+      <title>A Web-Based Alternative to Analytics in Domo</title>
+      <link>https://example.com/docs/data-analysis-domo/</link>
+      <pubDate>Sun, 10 Jul 2022 14:53:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/data-analysis-domo/</guid>
+      <description>Domo is an amazing BI Tool, but it can be expensive, and has a non-trivial barrier to entry for usage, and you probably don&amp;rsquo;t have a lot of time to commit to learning it. Data Analysis can be a daunting task to start. Where you do begin? What should the outcome look like? How do you even go about visualising your data?
+hk48 takes the pain out of data analysis by automating it for you.</description>
+    </item>
+    
+    <item>
+      <title>A Web-Based Alternative to Analytics in Excel</title>
+      <link>https://example.com/docs/data-analysis-excel/</link>
+      <pubDate>Sun, 10 Jul 2022 14:53:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/data-analysis-excel/</guid>
+      <description>Excel is an amazing piece of software, but it can be clunky to use, and has a non-trivial barrier to entry for usage, and you probably don&amp;rsquo;t have a lot of time to commit to learning it. Data Analysis can be a daunting task to start. Where you do begin? What should the outcome look like? How do you even go about visualising your data?
+hk48 takes the pain out of data analysis by automating it for you.</description>
+    </item>
+    
+    <item>
+      <title>A Web-Based Alternative to Analytics in Grafana</title>
+      <link>https://example.com/docs/data-analysis-grafana/</link>
+      <pubDate>Sun, 10 Jul 2022 14:53:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/data-analysis-grafana/</guid>
+      <description>Grafana is an amazing BI Tool, but it can be expensive, and has a non-trivial barrier to entry for usage, and you probably don&amp;rsquo;t have a lot of time to commit to learning it. Data Analysis can be a daunting task to start. Where you do begin? What should the outcome look like? How do you even go about visualising your data?
+hk48 takes the pain out of data analysis by automating it for you.</description>
+    </item>
+    
+    <item>
+      <title>A Web-Based Alternative to Analytics in Looker</title>
+      <link>https://example.com/docs/data-analysis-looker/</link>
+      <pubDate>Sun, 10 Jul 2022 14:53:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/data-analysis-looker/</guid>
+      <description>Looker is an amazing BI Tool, but it can be expensive, and has a non-trivial barrier to entry for usage, and you probably don&amp;rsquo;t have a lot of time to commit to learning it. Data Analysis can be a daunting task to start. Where you do begin? What should the outcome look like? How do you even go about visualising your data?
+hk48 takes the pain out of data analysis by automating it for you.</description>
+    </item>
+    
+    <item>
+      <title>A Web-Based Alternative to Analytics in PowerBI</title>
+      <link>https://example.com/docs/data-analysis-powerbi/</link>
+      <pubDate>Sun, 10 Jul 2022 14:53:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/data-analysis-powerbi/</guid>
+      <description>PowerBI is an amazing BI Tool, but it can be expensive, and has a non-trivial barrier to entry for usage, and you probably don&amp;rsquo;t have a lot of time to commit to learning it. Data Analysis can be a daunting task to start. Where you do begin? What should the outcome look like? How do you even go about visualising your data?
+hk48 takes the pain out of data analysis by automating it for you.</description>
+    </item>
+    
+    <item>
+      <title>A Web-Based Alternative to Analytics in SAS</title>
+      <link>https://example.com/docs/data-analysis-sas/</link>
+      <pubDate>Sun, 10 Jul 2022 14:53:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/data-analysis-sas/</guid>
+      <description>SAS is an amazing BI Tool, but it can be expensive, and has a non-trivial barrier to entry for usage, and you probably don&amp;rsquo;t have a lot of time to commit to learning it. Data Analysis can be a daunting task to start. Where you do begin? What should the outcome look like? How do you even go about visualising your data?
+hk48 takes the pain out of data analysis by automating it for you.</description>
+    </item>
+    
+    <item>
+      <title>A Web-Based Alternative to Analytics in SiSense</title>
+      <link>https://example.com/docs/data-analysis-sisense/</link>
+      <pubDate>Sun, 10 Jul 2022 14:53:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/data-analysis-sisense/</guid>
+      <description>SiSense is an amazing BI Tool, but it can be expensive, and has a non-trivial barrier to entry for usage, and you probably don&amp;rsquo;t have a lot of time to commit to learning it. Data Analysis can be a daunting task to start. Where you do begin? What should the outcome look like? How do you even go about visualising your data?
+hk48 takes the pain out of data analysis by automating it for you.</description>
+    </item>
+    
+    <item>
+      <title>A Web-Based Alternative to Analytics in Tableau</title>
+      <link>https://example.com/docs/data-analysis-tableau/</link>
+      <pubDate>Sun, 10 Jul 2022 14:53:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/data-analysis-tableau/</guid>
+      <description>Tableau is an amazing BI Tool, but it can be expensive, and has a non-trivial barrier to entry for usage, and you probably don&amp;rsquo;t have a lot of time to commit to learning it. Data Analysis can be a daunting task to start. Where you do begin? What should the outcome look like? How do you even go about visualising your data?
+hk48 takes the pain out of data analysis by automating it for you.</description>
+    </item>
+    
+    <item>
+      <title>Analyse your Kaggle Data Here</title>
+      <link>https://example.com/docs/data-analysis-kaggle/</link>
+      <pubDate>Sun, 10 Jul 2022 14:53:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/data-analysis-kaggle/</guid>
+      <description>So you&amp;rsquo;ve just downloaded an awesome dataset from Kaggle. Now what? Data Analysis can be a daunting task to start. Where you do begin? What should the outcome look like? How do you even go about visualising your data?
+hk48 takes the pain out of data analysis by automating it for you. Simply upload your data to
+explore it like Google search instead of with SQL get any visualisation at your fingertips, no complex data transformation needed detect all trends in your data have statistical models built for you in seconds hk48 requires absolutely no technical knowledge whatsoever, and removes the barrier to entry for data science.</description>
+    </item>
+    
+    <item>
+      <title>Automated Data Analysis - Analytics Done For You</title>
+      <link>https://example.com/docs/data-analysis-automated/</link>
+      <pubDate>Sun, 10 Jul 2022 14:53:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/data-analysis-automated/</guid>
+      <description>Data Analysis can be a daunting task to start, and you don&amp;rsquo;t have a lot of time. Where you do begin? What should the outcome look like? How do you even go about visualising your data?
+hk48 takes the pain out of data analysis by automating it for you. Simply upload your data to
+explore it like Google search instead of with SQL get any visualisation at your fingertips, no complex data transformation needed detect all trends in your data have statistical models built for you in seconds hk48 requires absolutely no technical knowledge whatsoever, and removes the barrier to entry for data science.</description>
+    </item>
+    
+    <item>
+      <title>Easy CSV Data Analysis</title>
+      <link>https://example.com/docs/data-analysis-csv/</link>
+      <pubDate>Sun, 10 Jul 2022 14:53:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/data-analysis-csv/</guid>
+      <description>So you&amp;rsquo;ve just downloaded an awesome CSV file from Kaggle. Now what? Data Analysis can be a daunting task to start. Where you do begin? What should the outcome look like? How do you even go about visualising your data?
+hk48 takes the pain out of data analysis by automating it for you. Simply upload your data to
+explore it like Google search instead of with SQL get any visualisation at your fingertips, no complex data transformation needed detect all trends in your data have statistical models built for you in seconds hk48 requires absolutely no technical knowledge whatsoever, and removes the barrier to entry for data science.</description>
+    </item>
+    
+    <item>
+      <title>Easy Data Analytics</title>
+      <link>https://example.com/docs/data-analysis-easy/</link>
+      <pubDate>Sun, 10 Jul 2022 14:53:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/data-analysis-easy/</guid>
+      <description>Data Analysis can be a daunting task to start, and you don&amp;rsquo;t have a lot of time. Where you do begin? What should the outcome look like? How do you even go about visualising your data?
+hk48 takes the pain out of data analysis by automating it for you. Simply upload your data to
+explore it like Google search instead of with SQL get any visualisation at your fingertips, no complex data transformation needed detect all trends in your data have statistical models built for you in seconds hk48 requires absolutely no technical knowledge whatsoever, and removes the barrier to entry for data science.</description>
+    </item>
+    
+    <item>
+      <title>Easy TXT Data Analysis</title>
+      <link>https://example.com/docs/data-analysis-txt/</link>
+      <pubDate>Sun, 10 Jul 2022 14:53:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/data-analysis-txt/</guid>
+      <description>So you&amp;rsquo;ve just downloaded an awesome TXT file from Kaggle. Now what? Data Analysis can be a daunting task to start. Where you do begin? What should the outcome look like? How do you even go about visualising your data?
+hk48 takes the pain out of data analysis by automating it for you. Simply upload your data to
+explore it like Google search instead of with SQL get any visualisation at your fingertips, no complex data transformation needed detect all trends in your data have statistical models built for you in seconds hk48 requires absolutely no technical knowledge whatsoever, and removes the barrier to entry for data science.</description>
+    </item>
+    
+    <item>
+      <title>Free Data Analytics</title>
+      <link>https://example.com/docs/data-analysis-free/</link>
+      <pubDate>Sun, 10 Jul 2022 14:53:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/data-analysis-free/</guid>
+      <description>Data Analysis can be a daunting task to start, and you probably don&amp;rsquo;t have a big budget to start off. Where you do begin? What should the outcome look like? How do you even go about visualising your data?
+hk48 takes the pain out of data analysis by automating it for you. Simply upload your data to
+explore it like Google search instead of with SQL get any visualisation at your fingertips, no complex data transformation needed detect all trends in your data have statistical models built for you in seconds hk48 requires absolutely no technical knowledge whatsoever, and removes the barrier to entry for data science.</description>
+    </item>
+    
+    <item>
+      <title>Free Data Analytics Platform</title>
+      <link>https://example.com/docs/data-analysis-platform/</link>
+      <pubDate>Sun, 10 Jul 2022 14:53:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/data-analysis-platform/</guid>
+      <description>Data Analysis can be a daunting task to start, and you probably don&amp;rsquo;t have a big budget to start off. Where you do begin? What should the outcome look like? How do you even go about visualising your data?
+hk48 takes the pain out of data analysis by automating it for you. Simply upload your data to
+explore it like Google search instead of with SQL get any visualisation at your fingertips, no complex data transformation needed detect all trends in your data have statistical models built for you in seconds hk48 requires absolutely no technical knowledge whatsoever, and removes the barrier to entry for data science.</description>
+    </item>
+    
+    <item>
+      <title>JS Data Analytics Software</title>
+      <link>https://example.com/docs/data-analysis-js/</link>
+      <pubDate>Sun, 10 Jul 2022 14:53:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/data-analysis-js/</guid>
+      <description>JavaScript is an incredible language with a low barrier to entry, but a long learning curve. With the advent of libraries like D3, JS is becoming more and more involved in the world of data analytics. Expedite your introduction to the world of Analytics with hk48 - a comprehensive self-serve analysis system built with R and Shiny.
+hk48 takes the pain out of data analysis by automating it for you. Simply upload your data to</description>
+    </item>
+    
+    <item>
+      <title>Jump Start Your Analytics</title>
+      <link>https://example.com/docs/data-analysis-instant/</link>
+      <pubDate>Sun, 10 Jul 2022 14:53:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/data-analysis-instant/</guid>
+      <description>Data Analysis can be a daunting task to start. Where you do begin? What should the outcome look like? How do you even go about visualising your data?
+hk48 takes the pain out of data analysis by automating it for you. Simply upload your data to
+explore it like Google search instead of with SQL get any visualisation at your fingertips, no complex data transformation needed detect all trends in your data have statistical models built for you in seconds hk48 requires absolutely no technical knowledge whatsoever, and removes the barrier to entry for data science.</description>
+    </item>
+    
+    <item>
+      <title>Jump Start Your Analytics</title>
+      <link>https://example.com/docs/data-analysis-rapid-start/</link>
+      <pubDate>Sun, 10 Jul 2022 14:53:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/data-analysis-rapid-start/</guid>
+      <description>Data Analysis can be a daunting task to start. Where you do begin? What should the outcome look like? How do you even go about visualising your data?
+hk48 takes the pain out of data analysis by automating it for you. Simply upload your data to
+explore it like Google search instead of with SQL get any visualization at your fingertips, no complex data transformation needed detect all trends in your data have statistical models built for you in seconds hk48 requires absolutely no technical knowledge whatsoever, and removes the barrier to entry for data science.</description>
+    </item>
+    
+    <item>
+      <title>No need to source Data Analysis on Fiverr</title>
+      <link>https://example.com/docs/automated-analysis/</link>
+      <pubDate>Sun, 10 Jul 2022 14:53:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/automated-analysis/</guid>
+      <description>There are a multitide of excellent analysts on Fiverr, and almost all of them will give you value for money. But before you reach into your pocket to get tricky analysis done, it&amp;rsquo;s worth trying hk48 first.
+hk48 takes the pain out of data analysis by automating it for you. Simply upload your data to
+explore it like Google search instead of with SQL get any visualisation at your fingertips, no complex data transformation needed detect all trends in your data have statistical models built for you in seconds hk48 requires absolutely no technical knowledge whatsoever, and removes the barrier to entry for data science.</description>
+    </item>
+    
+    <item>
+      <title>No need to source Data Analysis on Fiverr</title>
+      <link>https://example.com/docs/data-analysis-fiverr/</link>
+      <pubDate>Sun, 10 Jul 2022 14:53:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/data-analysis-fiverr/</guid>
+      <description>There are a multitide of excellent analysts on Fiverr, and almost all of them will give you value for money. But before you reach into your pocket to get tricky analysis done, it&amp;rsquo;s worth trying hk48 first.
+hk48 takes the pain out of data analysis by automating it for you. Simply upload your data to
+explore it like Google search instead of with SQL get any visualisation at your fingertips, no complex data transformation needed detect all trends in your data have statistical models built for you in seconds hk48 requires absolutely no technical knowledge whatsoever, and removes the barrier to entry for data science.</description>
+    </item>
+    
+    <item>
+      <title>No need to source Data Analysis on Fiverr</title>
+      <link>https://example.com/docs/data-analysis-for-students/</link>
+      <pubDate>Sun, 10 Jul 2022 14:53:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/data-analysis-for-students/</guid>
+      <description>There are a multitide of excellent analysts on Fiverr, and almost all of them will give you value for money. But before you reach into your pocket to get tricky analysis done, it&amp;rsquo;s worth trying hk48 first.
+hk48 takes the pain out of data analysis by automating it for you. Simply upload your data to
+explore it like Google search instead of with SQL get any visualisation at your fingertips, no complex data transformation needed detect all trends in your data have statistical models built for you in seconds hk48 requires absolutely no technical knowledge whatsoever, and removes the barrier to entry for data science.</description>
+    </item>
+    
+    <item>
+      <title>Presentation-Ready Visuals</title>
+      <link>https://example.com/docs/data-analysis-presentation/</link>
+      <pubDate>Sun, 10 Jul 2022 14:53:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/data-analysis-presentation/</guid>
+      <description>Need a quick visualization on your data for a presentation? hk48 uses the Plotly library for generating visuals, so you can have custom, ready-to-go visuals in seconds, without clumsy data manipulation or writing a single line of code.
+hk48 takes the pain out of data analysis by automating it for you. Simply upload your data to
+explore it like Google search instead of with SQL get any visualisation at your fingertips, no complex data transformation needed detect all trends in your data have statistical models built for you in seconds hk48 requires absolutely no technical knowledge whatsoever, and removes the barrier to entry for data science.</description>
+    </item>
+    
+    <item>
+      <title>Python Data Analytics Software</title>
+      <link>https://example.com/docs/data-analysis-python/</link>
+      <pubDate>Sun, 10 Jul 2022 14:53:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/data-analysis-python/</guid>
+      <description>Python is an incredible tool with a low barrier to entry, but a long learning curve. Expedite your introduction to the world of Analytics with hk48 - a comprehensive self-serve analysis system built with R and Shiny that is integrable with Python.
+hk48 takes the pain out of data analysis by automating it for you. Simply upload your data to
+explore it like Google search instead of with SQL get any visualisation at your fingertips, no complex data transformation needed detect all trends in your data have statistical models built for you in seconds hk48 requires absolutely no technical knowledge whatsoever, and removes the barrier to entry for data science.</description>
+    </item>
+    
+    <item>
+      <title>R Data Analytics Software</title>
+      <link>https://example.com/docs/data-analysis-r/</link>
+      <pubDate>Sun, 10 Jul 2022 14:53:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/data-analysis-r/</guid>
+      <description>R is an incredible tool with a low barrier to entry, but a long learning curve. Expedite your introduction to the world of Analytics with hk48 - a comprehensive self-serve analysis system built with R and Shiny.
+hk48 takes the pain out of data analysis by automating it for you. Simply upload your data to
+explore it like Google search instead of with SQL get any visualisation at your fingertips, no complex data transformation needed detect all trends in your data have statistical models built for you in seconds hk48 requires absolutely no technical knowledge whatsoever, and removes the barrier to entry for data science.</description>
+    </item>
+    
+    <item>
+      <title>Return and Refund Policy</title>
+      <link>https://example.com/docs/policy-refund-and-returns/</link>
+      <pubDate>Sun, 10 Jul 2022 14:53:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/policy-refund-and-returns/</guid>
+      <description># Last updated: August 22, 2022
+Thank you for data-ing with Datatat.
+If, for any reason, You are not completely satisfied with your subscription, We invite You to review our policy on refunds and returns. This Return and Refund Policy has been created with the help of the TermsFeed Return and Refund Policy Generator.
+The following terms are applicable for any products that You purchased with Us.
+Interpretation and Definitions # Interpretation # The words of which the initial letter is capitalized have meanings defined under the following conditions.</description>
+    </item>
+    
+    <item>
+      <title>RStats Data Analytics Software</title>
+      <link>https://example.com/docs/data-analysis-rstats/</link>
+      <pubDate>Sun, 10 Jul 2022 14:53:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/data-analysis-rstats/</guid>
+      <description>R is an incredible tool with a low barrier to entry, but a long learning curve. Expedite your introduction to the world of Analytics with hk48 - a comprehensive self-serve analysis system built with R and Shiny.
+hk48 takes the pain out of data analysis by automating it for you. Simply upload your data to
+explore it like Google search instead of with SQL get any visualisation at your fingertips, no complex data transformation needed detect all trends in your data have statistical models built for you in seconds hk48 requires absolutely no technical knowledge whatsoever, and removes the barrier to entry for data science.</description>
+    </item>
+    
+    <item>
+      <title>Visualisation</title>
+      <link>https://example.com/docs/about/</link>
+      <pubDate>Sun, 10 Jul 2022 14:53:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/about/</guid>
+      <description>About the Project
+NanoData is an app that takes the pain out of analysis. It makes visualizations, insights, and model development instantaneous, so you can spend more time focusing on the what, than the how.
+This project is intended for free use to all for datasets under 5MB in size. This is purely for cost mitigation at the moment. If you have a use case that requires a dataset &amp;gt; 5MB, please get in touch via the Contact page.</description>
+    </item>
+    
+    <item>
+      <title>Visualisation</title>
+      <link>https://example.com/docs/viz/</link>
+      <pubDate>Sun, 10 Jul 2022 14:53:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/viz/</guid>
+      <description>Visualisation is a feature that will automatically generate a bar or scatter plot based on your dataset. You can affect this by changing the value of the Choose plot type dropdown. The tool dynamically reacts based on the series you select, as well as the method of aggregation.
+Current aggregation options are Sum, Count, Min, Max, and Mean, with more to come in the future. You can pick your method from the Select aggregation dropdown in the sidebar.</description>
+    </item>
+    
+    <item>
+      <title>Your Starting Line for Data Analysis</title>
+      <link>https://example.com/docs/data-analysis-from-scratch/</link>
+      <pubDate>Sun, 10 Jul 2022 14:53:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/data-analysis-from-scratch/</guid>
+      <description>Data Analysis can be a daunting task to start. Where you do begin? What should the outcome look like? How do you even go about visualising your data?
+hk48 takes the pain out of data analysis by automating it for you. Simply upload your data to
+explore it like Google search instead of with SQL get any visualisation at your fingertips, no complex data transformation needed detect all trends in your data have statistical models built for you in seconds hk48 requires absolutely no technical knowledge whatsoever, and removes the barrier to entry for data science.</description>
+    </item>
+    
+    <item>
+      <title>Your Starting Line for Data Science</title>
+      <link>https://example.com/docs/data-science-from-scratch/</link>
+      <pubDate>Sun, 10 Jul 2022 14:53:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/data-science-from-scratch/</guid>
+      <description>Data Science can be a daunting task to start. Where you do begin? What should the outcome look like? How do you even go about visualising your data?
+hk48 takes the pain out of data analysis by automating it for you. Simply upload your data to
+explore it like Google search instead of with SQL get any visualisation at your fingertips, no complex data transformation needed detect all trends in your data have statistical models built for you in seconds hk48 requires absolutely no technical knowledge whatsoever, and removes the barrier to entry for data science.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/docs/policy-terms-and-conditions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/policy-terms-and-conditions/</guid>
+      <description>Terms and Conditions # Last updated: August 22, 2022
+Please read these terms and conditions carefully before using Our Service.
+Interpretation and Definitions # Interpretation # The words of which the initial letter is capitalized have meanings defined under the following conditions. The following definitions shall have the same meaning regardless of whether they appear in singular or in plural.
+Definitions # For the purposes of these Terms and Conditions:</description>
+    </item>
+    
+  </channel>
+</rss>
