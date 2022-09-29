@@ -2,8 +2,8 @@
 headless = true
 +++
 
-- [Docs]({{< relref "/docs/hk48" >}})
-  - [What is hk48?]({{< relref "/docs/hk48" >}})
+- [Docs]({{< relref "/docs/datatat" >}})
+  - [What is datatat?]({{< relref "/docs/datatat" >}})
   - [Table Explorer]({{< relref "/docs/tableexplorer" >}})
   - [Visualization]({{< relref "/docs/viz" >}})
   - [Trend Detector]({{< relref "/docs/trenddetector" >}})
@@ -14,4 +14,4 @@ headless = true
   - [Refunds]({{< relref "/docs/policy-refund-and-returns" >}})
   - [Terms of Service]({{< relref "/docs/policy-terms-and-conditions" >}})
 - [Blog]({{< relref "/posts" >}})
-  - [hk48 Launches]({{< relref "/posts/hk48-launches" >}})
+  - [datatat Launches]({{< relref "/posts/datatat-launches" >}})
