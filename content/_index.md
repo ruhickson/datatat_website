@@ -3,7 +3,7 @@ title: datatat
 type: docs
 ---
 
-# [Try datatat Now](https://datatat.shinyapps.io/datatat/)
+# [Try datatat Now](https://nanodata.shinyapps.io/datatat_premium/)
 
 {{< columns >}}
 ## Welcome to the future of Data Analysis
