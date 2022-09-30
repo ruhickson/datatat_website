@@ -1,6 +1,6 @@
 ---
 date: "2022-07-10T14:53:00-00:00"
-title: hk48
+title: Trend Detector
 weight: 4
 ---
 

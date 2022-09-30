@@ -4,9 +4,9 @@ title: No need to source Data Analysis on Fiverr
 weight: 5
 ---
 
-There are a multitide of excellent analysts on Fiverr, and almost all of them will give you value for money. But before you reach into your pocket to get tricky analysis done, it's worth trying hk48 first.
+There are a multitide of excellent analysts on Fiverr, and almost all of them will give you value for money. But before you reach into your pocket to get tricky analysis done, it's worth trying datatat first.
 
-hk48 takes the pain out of data analysis by automating it for you. Simply upload your data to
+datatat takes the pain out of data analysis by automating it for you. Simply upload your data to
 - explore it like Google search instead of with SQL
 - get any visualisation at your fingertips, no complex data transformation needed
 - detect all trends in your data
@@ -14,16 +14,12 @@ hk48 takes the pain out of data analysis by automating it for you. Simply upload
 
 ![Plot Type](plottype.gif)
 
-hk48 requires absolutely no technical knowledge whatsoever, and removes the barrier to entry for data science. Whether you're a professional analyst, a CEO, a student, a hobbyist, or just someone with a curious mind, hk48 works for you.
+datatat requires absolutely no technical knowledge whatsoever, and removes the barrier to entry for data science. Whether you're a professional analyst, a CEO, a student, a hobbyist, or just someone with a curious mind, datatat works for you.
 
 ## Try it now
 
-Visit the app [here](https://hk48.shinyapps.io/nanoshiny/)
+Visit the app [here](https://datatat.shinyapps.io/datatat/)
 
-Or come say hello to us on Twitter [here](https://twitter.com/nano_data)
+Or come say hello to us on Twitter [here](https://twitter.com/datatat_xyz)
 
-Or sign up to our newsletter [here](https://nanodocs.netlify.app/docs/newsletter/)
-
-<p align="center" width="100%">
- <img width=33% src="Original.png">
-</p>
+Or sign up to our newsletter [here](https://datatat.xyz/docs/newsletter/)
