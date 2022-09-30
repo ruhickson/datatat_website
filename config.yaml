@@ -1,7 +1,7 @@
 # hugo server --minify --themesDir ... --baseURL=http://0.0.0.0:1313/theme/hugo-book/
 
 baseURL: https://example.com
-title: hk48 Docs
+title: datatat Docs
 theme: hugo-book
 
 # Book configuration
@@ -20,10 +20,10 @@ menu:
   # before: []
   after:
     - name: "Github"
-      url: "https://github.com/ruhksn"
+      url: "https://github.com/ru_hickson"
       weight: 10
     - name: "Go to App"
-      url: "https://hk48.shinyapps.io/hk48saas"
+      url: "https://datatat.shinyapps.io/datatat"
       weight: 1
 
 params:

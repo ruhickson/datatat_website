@@ -3,7 +3,7 @@ title: datatat
 type: docs
 ---
 
-# [Try datatat Now](https://nanodata.shinyapps.io/datatat_premium/)
+# [Try datatat Now](https://datatat.shinyapps.io/datatat/)
 
 {{< columns >}}
 ## Welcome to the future of Data Analysis
@@ -27,7 +27,7 @@ The friction involved in starting a data science project is huge. With datatat, 
 
 ## Try it now
 
-Visit the app [here](https://datatat.shinyapps.io/nanoshiny/)
+Visit the app [here](https://datatat.shinyapps.io/datatat/)
 
 Or come say hello to us on Twitter [here](https://twitter.com/nano_data)
 
