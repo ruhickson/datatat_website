@@ -23,7 +23,7 @@ menu:
       url: "https://github.com/ruhksn"
       weight: 10
     - name: "Go to App"
-      url: "https://hk48.shinyapps.io/hk48saas"
+      url: "https://datatat.shinyapps.io/datatat"
       weight: 1
 
 params:
